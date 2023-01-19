@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.10.15",
+    "@mui/material": "^5.10.15",
+    "@react-icons/all-files": "^4.1.0",
+    "nodemodule": "^0.3.0",
+    "react-icons": "^4.6.0",
+    "react-router-dom": "^6.4.3",
+    "sass": "^1.56.1",
+    "yarn": "^1.22.19"
+  }
+}
